@@ -88,7 +88,9 @@ body {
     font-weight: 500;
     font-size: 40px;
 }
-
+.card-body {
+    margin-top: 20px;
+}
 .card-header {
     background-color: chocolate;
 }
